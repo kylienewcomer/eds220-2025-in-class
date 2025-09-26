@@ -2,7 +2,7 @@
 In-class work for the EDS 220 MEDS course.
 # EDS 220 In-Class Repository
 
-This repository hosts all the work completed by [Kylie Newcomer] during the EDS 220 - *Working with Environmental Data* lectures.
+This repository hosts all the work completed by Kylie Newcomer during the EDS 220 - *Working with Environmental Data* lectures.
 
 ## Course Information
 
